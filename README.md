@@ -23,3 +23,4 @@ When code is committed or merged into the main branch, this project is configure
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/jaskomalkk/ci-cd-linter-setup.git
+   ```
